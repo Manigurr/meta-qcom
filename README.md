@@ -10,7 +10,7 @@ OpenEmbedded/Yocto Project hardware enablement layer for Qualcomm based platform
 This layers provides additional recipes and machine configuration files for
 Qualcomm platforms.
 
-This layer depends on:
+This layer depends on:-
 
 ```
 URI: https://github.com/openembedded/openembedded-core.git
